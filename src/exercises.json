@@ -1,0 +1,103 @@
+{
+  "chest": {
+
+    "Pushup": {
+      "low": "8",
+      "medium": "12",
+      "high": "15"
+    },
+    "Bench Press": {
+      "low": "3",
+      "medium": "6",
+      "high": "8"
+    },
+    "Incline Bench Press": {
+      "low": "3",
+      "medium": "6",
+      "high": "8"
+    },
+    "Band Pull Apart": {
+      "low": "8",
+      "medium": "12",
+      "high": "15"
+    },
+    "Dumbbell Flys": {
+      "low": "4",
+      "medium": "6",
+      "high": "8"
+    }
+
+    
+  },
+  
+  "back" : {
+    
+    "Band Pull Apart": {
+      "low": "8",
+      "medium": "12",
+      "high": "15"
+    },
+    "Pull Up": {
+      "low": "4",
+      "medium": "6",
+      "high": "8"
+    },
+    "Inverted Rows": {
+      "low": "6",
+      "medium": "8",
+      "high": "12"
+    }
+      
+  },
+  
+  "legs" : {
+    "Back Squat": {
+      "low": "3",
+      "medium": "6",
+      "high": "8"
+    },
+    "Front Squat": {
+      "low": "2",
+      "medium": "4",
+      "high": "6"
+    },
+    "RDL": {
+      "low": "6",
+      "medium": "8",
+      "high": "12"
+    }
+  },
+  
+  "arms" : {
+    "Bicep Curls": {
+      "low": "8",
+      "medium": "12",
+      "high": "15"
+    },
+    "Tricep Extensions": {
+      "low": "8",
+      "medium": "12",
+      "high": "15"
+    }
+  },
+  
+  "shoulders" : {
+    "Push Press": {
+      "low": "4",
+      "medium": "6",
+      "high": "8"
+    },
+    "Dumbbell Lateral Raise": {
+      "low": "6",
+      "medium": "8",
+      "high": "10"
+    },
+    "Arnold Press": {
+      "low": "6",
+      "medium": "8",
+      "high": "12"
+    }
+  }
+    
+  
+}

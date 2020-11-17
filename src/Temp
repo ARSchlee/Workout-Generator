@@ -1,0 +1,41 @@
+
+class Generator extends React.Component {
+
+  render()
+  {
+
+    return(
+      <Accordion defaultActiveKey = "0" >
+
+        <Card>
+          <Card.Header>
+            <Accordion.Toggle as={Button} variant="link" eventKey="0">
+              WORKOUT DETAILS
+            </Accordion.Toggle>
+          </Card.Header>
+          <Accordion.Collapse eventKey="0">
+            <Card.Body>
+
+              <DetailWorkOutType />
+
+            </Card.Body>
+          </Accordion.Collapse>
+        </Card>
+
+        <Card>
+          <Card.Header>
+            <Accordion.Toggle as={Button} variant="link" eventKey="1">
+              BUILT WORKOUT
+            </Accordion.Toggle>
+          </Card.Header>
+          <Accordion.Collapse eventKey="1">
+            <Card.Body>
+              TODO
+            </Card.Body>
+          </Accordion.Collapse>
+        </Card>
+
+      </Accordion>
+    )
+  }
+}
