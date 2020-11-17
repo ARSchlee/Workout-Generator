@@ -108,7 +108,6 @@ handleCheckClick(muscles){
     });
   }
   
-  
 }
 
   render(){
