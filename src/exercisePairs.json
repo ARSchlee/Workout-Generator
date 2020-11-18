@@ -1,0 +1,123 @@
+{
+    "1": {
+      "Pushup": {
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      },
+      "Inverted Rows": {
+        "low": "6",
+        "medium": "8",
+        "high": "12"
+      }
+  
+    },
+    
+    "2" : {
+      "Bench Press": {
+        "low": "3",
+        "medium": "6",
+        "high": "8"
+      },
+          "Pull Up": {
+        "low": "4",
+        "medium": "6",
+        "high": "8"
+      }
+    },
+    
+    "3" : {
+      "Incline Bench Press": {
+        "low": "3",
+        "medium": "6",
+        "high": "8"
+      },
+      "Dips": {
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      }
+      
+    },
+    
+    "4" : {
+      "Band Pull Apart": {
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      },
+      "Dumbbell Lateral Raise": {
+        "low": "6",
+        "medium": "8",
+        "high": "10"
+      }
+   
+    },
+    
+    "5" : {
+      "Back Squat": {
+        "low": "3",
+        "medium": "6",
+        "high": "8"
+      },
+      "Glute-ham Raise": {
+        "low": "6",
+        "medium": "8",
+        "high": "10"
+      }
+    },
+    
+    "6" : {
+      "Front Squat": {
+        "low": "2",
+        "medium": "4",
+        "high": "6"
+      },
+      "RDL": {
+        "low": "6",
+        "medium": "8",
+        "high": "12"
+      }
+    },
+    
+    "7" : {
+      "Bicep Curls": {
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      },
+      "Tricep Extensions": {
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      }
+    },
+    
+    "8" : {
+      "Push Press": {
+        "low": "4",
+        "medium": "6",
+        "high": "8"
+      },
+      "High Pull": {
+        "low": "6",
+        "medium": "8",
+        "high": "10"
+      }
+    },
+    
+    "9" : {
+      "Dumbbell Push Press": {
+        "low": "4",
+        "medium": "6",
+        "high": "8"
+      },
+      "Face Pulls": {
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      }
+    }
+      
+    
+  }

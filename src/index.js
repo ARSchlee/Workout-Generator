@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import exercises from './exercises.json'
+import groupExercises from './exercisesByGroup.json';
+import pairExercises from './exercisePairs.json';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 
