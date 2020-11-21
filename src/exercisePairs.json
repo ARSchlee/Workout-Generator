@@ -1,11 +1,13 @@
 {
     "1": {
-      "Pushup": {
+      "Primary": {
+        "name" : "Pushup",
         "low": "8",
         "medium": "12",
         "high": "15"
       },
-      "Inverted Rows": {
+      "Secondary": {
+        "name" : "Inverted Rows",
         "low": "6",
         "medium": "8",
         "high": "12"
@@ -14,12 +16,14 @@
     },
     
     "2" : {
-      "Bench Press": {
+      "Primary": {
+        "name" : "Bench Press",
         "low": "3",
         "medium": "6",
         "high": "8"
       },
-          "Pull Up": {
+      "Secondary": {
+        "name" : "Pull Up",
         "low": "4",
         "medium": "6",
         "high": "8"
@@ -27,12 +31,14 @@
     },
     
     "3" : {
-      "Incline Bench Press": {
+      "Primary": {
+        "name" : "Incline Bench Press",
         "low": "3",
         "medium": "6",
         "high": "8"
       },
-      "Dips": {
+      "Secondary": {
+        "name" : "Dips",
         "low": "8",
         "medium": "12",
         "high": "15"
@@ -41,12 +47,14 @@
     },
     
     "4" : {
-      "Band Pull Apart": {
+      "Primary": {
+        "name" : "Band Pull Apart",
         "low": "8",
         "medium": "12",
         "high": "15"
       },
-      "Dumbbell Lateral Raise": {
+      "Secondary": {
+        "name" : "Dumbbell Lateral Raise",
         "low": "6",
         "medium": "8",
         "high": "10"
@@ -55,12 +63,14 @@
     },
     
     "5" : {
-      "Back Squat": {
+      "Primary": {
+        "name" : "Back Squat",
         "low": "3",
         "medium": "6",
         "high": "8"
       },
-      "Glute-ham Raise": {
+      "Secondary": {
+        "name" : "Glute-ham Raise",
         "low": "6",
         "medium": "8",
         "high": "10"
@@ -68,12 +78,14 @@
     },
     
     "6" : {
-      "Front Squat": {
+      "Primary": {
+        "name" : "Front Squat",
         "low": "2",
         "medium": "4",
         "high": "6"
       },
-      "RDL": {
+      "Secondary": {
+        "name" : "RDL",
         "low": "6",
         "medium": "8",
         "high": "12"
@@ -81,12 +93,14 @@
     },
     
     "7" : {
-      "Bicep Curls": {
+      "Primary": {
+        "name" : "Bicep Curls",
         "low": "8",
         "medium": "12",
         "high": "15"
       },
-      "Tricep Extensions": {
+      "Secondary": {
+        "name" : "Tricep Extensions",
         "low": "8",
         "medium": "12",
         "high": "15"
@@ -94,12 +108,14 @@
     },
     
     "8" : {
-      "Push Press": {
+      "Primary": {
+        "name" : "Push Press",
         "low": "4",
         "medium": "6",
         "high": "8"
       },
-      "High Pull": {
+      "Secondary": {
+        "name" : "High Pull",
         "low": "6",
         "medium": "8",
         "high": "10"
@@ -107,12 +123,14 @@
     },
     
     "9" : {
-      "Dumbbell Push Press": {
+      "Primary": {
+        "name" : "Dumbbell Push Press",
         "low": "4",
         "medium": "6",
         "high": "8"
       },
-      "Face Pulls": {
+      "Secondary": {
+        "name" : "Face Pulls",
         "low": "8",
         "medium": "12",
         "high": "15"
