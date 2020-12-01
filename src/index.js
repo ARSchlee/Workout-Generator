@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import exercises from './exercises.json'
+import groupExercises from './exercisesByGroup.json';
+import pairExercises from './exercisePairs.json';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 
@@ -29,6 +30,7 @@ class WorkoutGenerator extends React.Component {
         <WorkoutType isReps={this.state.isReps} onClick={i => this.handleTypeClick(i)}/>
         <MuscleGroup />
         <WorkoutIntensity isReps={this.state.isReps} onIntensityClick={i => this.handleIntervalIntensityClick(i)}/>
+        <BuildWorkout />
       </div>
     )
   }
@@ -107,7 +109,6 @@ handleCheckClick(muscles){
       checked : newChecked
     });
   }
-  
   
 }
 
@@ -194,6 +195,40 @@ class WorkoutIntensity extends React.Component {
       </div>
       )
     }
+  }
+}
+
+class BuildWorkout extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      exercise: ""
+    }
+  }
+
+  getRandomExercises(props){ //this needs to be done in an onclick to avoid infinite loop
+    var keys = Object.keys(pairExercises);
+    var randKey = keys[Math.floor(Math.random() *keys.length)];
+
+    console.log(pairExercises[randKey]); //get random range but shuffling the length
+    console.log(randKey);
+//    this.setState({exercise : pairExercises[randKey]});
+  }
+
+  render() {
+
+    var keys = Object.keys(pairExercises);
+    var randKey = keys[Math.floor(Math.random() *keys.length)];
+
+    console.log(pairExercises[randKey]);
+    console.log(randKey);
+
+    return (
+
+      <div>
+        Build
+      </div>
+    )
   }
 }
 

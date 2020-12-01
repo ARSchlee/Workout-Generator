@@ -1,0 +1,141 @@
+{
+    "1": {
+      "Primary": {
+        "name" : "Pushup",
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      },
+      "Secondary": {
+        "name" : "Inverted Rows",
+        "low": "6",
+        "medium": "8",
+        "high": "12"
+      }
+  
+    },
+    
+    "2" : {
+      "Primary": {
+        "name" : "Bench Press",
+        "low": "3",
+        "medium": "6",
+        "high": "8"
+      },
+      "Secondary": {
+        "name" : "Pull Up",
+        "low": "4",
+        "medium": "6",
+        "high": "8"
+      }
+    },
+    
+    "3" : {
+      "Primary": {
+        "name" : "Incline Bench Press",
+        "low": "3",
+        "medium": "6",
+        "high": "8"
+      },
+      "Secondary": {
+        "name" : "Dips",
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      }
+      
+    },
+    
+    "4" : {
+      "Primary": {
+        "name" : "Band Pull Apart",
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      },
+      "Secondary": {
+        "name" : "Dumbbell Lateral Raise",
+        "low": "6",
+        "medium": "8",
+        "high": "10"
+      }
+   
+    },
+    
+    "5" : {
+      "Primary": {
+        "name" : "Back Squat",
+        "low": "3",
+        "medium": "6",
+        "high": "8"
+      },
+      "Secondary": {
+        "name" : "Glute-ham Raise",
+        "low": "6",
+        "medium": "8",
+        "high": "10"
+      }
+    },
+    
+    "6" : {
+      "Primary": {
+        "name" : "Front Squat",
+        "low": "2",
+        "medium": "4",
+        "high": "6"
+      },
+      "Secondary": {
+        "name" : "RDL",
+        "low": "6",
+        "medium": "8",
+        "high": "12"
+      }
+    },
+    
+    "7" : {
+      "Primary": {
+        "name" : "Bicep Curls",
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      },
+      "Secondary": {
+        "name" : "Tricep Extensions",
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      }
+    },
+    
+    "8" : {
+      "Primary": {
+        "name" : "Push Press",
+        "low": "4",
+        "medium": "6",
+        "high": "8"
+      },
+      "Secondary": {
+        "name" : "High Pull",
+        "low": "6",
+        "medium": "8",
+        "high": "10"
+      }
+    },
+    
+    "9" : {
+      "Primary": {
+        "name" : "Dumbbell Push Press",
+        "low": "4",
+        "medium": "6",
+        "high": "8"
+      },
+      "Secondary": {
+        "name" : "Face Pulls",
+        "low": "8",
+        "medium": "12",
+        "high": "15"
+      }
+    }
+      
+    
+  }
