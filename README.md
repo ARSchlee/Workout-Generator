@@ -1,11 +1,10 @@
-#####################################################################################################
+# Brief Overview
 
 I started this project to create an app that randomly generates a workout based on a list of exercises and some user inputs.
 
 It ended up being a project where I played around with React and JS - it never turned into something actually useful for a user.
 However it was a good first learning experience with React. 
 
-#####################################################################################################
 
 # Getting Started with Create React App
 
